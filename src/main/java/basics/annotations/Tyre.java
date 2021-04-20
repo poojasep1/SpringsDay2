@@ -4,7 +4,7 @@ public class Tyre {
 private String brand;
 	
 	public Tyre() {
-		System.out.println("typre constructor");
+		System.out.println("tyre constructor");
 	}
 	
 	
